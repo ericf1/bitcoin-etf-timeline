@@ -11,11 +11,11 @@ export default function TracingBeamDemo() {
       <div className="max-w-2xl mx-auto antialiased pt-4 relative">
         {dummyContent.map((item, index) => (
           <div key={`content-${index}`} className="mb-10">
-            <h2 className="bg-black text-white rounded-full text-sm w-fit px-4 py-1 mb-4">
-              {item.badge}
+            <h2 className="bg-black text-white rounded-full text-lg w-fit px-4 py-1 mb-4">
+              {item.title}
             </h2>
 
-            <p>{item.title}</p>
+            {/* <p>{item.title}</p> */}
 
             <div className="text-sm  prose prose-sm dark:prose-invert">
               {item?.image && (
@@ -67,11 +67,11 @@ const dummyContent = [
         <p>
           The involvement of reputable exchanges like CBOE and CME lends
           credibility to the cryptocurrency, addressing some concerns raised by
-          regulators regarding the "black market" and decentralized nature of
-          Bitcoin, which have previously hindered the approval of Bitcoin Spot
-          ETFs. The launch of Bitcoin futures represents a crucial step forward
-          in establishing Bitcoin Spot ETFs by contributing to the growing
-          acceptance and legitimacy of the cryptocurrency.
+          regulators regarding the &quot;black market&quot; and decentralized
+          nature of Bitcoin, which have previously hindered the approval of
+          Bitcoin Spot ETFs. The launch of Bitcoin futures represents a crucial
+          step forward in establishing Bitcoin Spot ETFs by contributing to the
+          growing acceptance and legitimacy of the cryptocurrency.
         </p>
       </>
     ),
