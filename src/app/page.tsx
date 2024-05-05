@@ -29,16 +29,16 @@ export default function Page() {
           <p>
             As the financial world merges with technology, investments into
             blockchain and bitcoin have become much more prominent with some
-            publications calling cryptocurrency as the “future of finance.” [1]
-            In its simplest terms, cryptocurrency is a type of currency (similar
-            to the US dollar) that accrues value through trust. In the context
-            of USD, you would buy and sell goods with the dollar knowing that
-            the US government and businesses would validate that dollar. In the
-            context of cryptocurrencies, a decentralized network of computers
-            validates transactions instead of a centralized entity like the
-            government or banks. But in the nature of a decentralized currency
-            system, finding a safe way to invest in the bitcoin market is
-            difficult.
+            publications calling cryptocurrency as the &quotfuture of
+            finance.&quot [1] In its simplest terms, cryptocurrency is a type of
+            currency (similar to the US dollar) that accrues value through
+            trust. In the context of USD, you would buy and sell goods with the
+            dollar knowing that the US government and businesses would validate
+            that dollar. In the context of cryptocurrencies, a decentralized
+            network of computers validates transactions instead of a centralized
+            entity like the government or banks. But in the nature of a
+            decentralized currency system, finding a safe way to invest in the
+            bitcoin market is difficult.
           </p>
           <br />
           <p>
@@ -185,11 +185,11 @@ export default function Page() {
             offer Bitcoin Spot ETFs. According to Vanguard:
           </p>
           <p>
-            &quot;In Vanguard’s view, crypto is more of a speculation than an
-            investment. This is at the root of our decision to not offer crypto
-            products, whether our own or others. With equities, you own a share
-            of a company that produces goods or services, and many also pay
-            dividends&quot; [27].
+            &quot;In Vanguard&apos;s view, crypto is more of a speculation than
+            an investment. This is at the root of our decision to not offer
+            crypto products, whether our own or others. With equities, you own a
+            share of a company that produces goods or services, and many also
+            pay dividends&quot; [27].
           </p>
           <p>
             Vanguard holds many of the views that the SEC has rejected and
@@ -223,11 +223,11 @@ export default function Page() {
         <div>
           <h1 className="font-semibold text-2xl"> Conclusion </h1>
           <p>
-            Regulation in Bitcoin is incredibly impactful to not only Bitcoin’s
-            current price but also to future blockchain technologies. As a
-            pioneer in leading changes in regulations in the world, how the SEC
-            and the US views Bitcoin would be indicative of the future of
-            financial technology.
+            Regulation in Bitcoin is incredibly impactful to not only
+            Bitcoin&apos;s current price but also to future blockchain
+            technologies. As a pioneer in leading changes in regulations in the
+            world, how the SEC and the US views Bitcoin would be indicative of
+            the future of financial technology.
           </p>
           <br />
           <p>
@@ -256,8 +256,8 @@ export default function Page() {
             United States should take a more proactive approach towards
             regulating Bitcoin and other financial technologies in order to stay
             ahead of innovation. As seen throughout the timeline, the
-            regulators’ non-movement towards the Bitcoin space hurt them in the
-            end since Bitcoin will always be a large part of the future of
+            regulators&apos; non-movement towards the Bitcoin space hurt them in
+            the end since Bitcoin will always be a large part of the future of
             financial technology.
           </p>
           <br />
@@ -319,9 +319,9 @@ export default function Page() {
             https://consumer.ftc.gov/consumer-alerts/2023/10/crypto-companies-touting-fdic-insurance-not-so-fast
             (accessed May 03, 2024).
             <br />
-            [12]J. Garber, &quot;Bitcoin spikes after Japan says it’s a legal
-            payment method,&quot; Insider, Apr. 03, 2017. Accessed: May 03,
-            2024. [Online]. Available:
+            [12]J. Garber, &quot;Bitcoin spikes after Japan says it&apos;s a
+            legal payment method,&quot; Insider, Apr. 03, 2017. Accessed: May
+            03, 2024. [Online]. Available:
             https://www.businessinsider.com/bitcoin-price-spikes-as-japan-recognizes-it-as-a-legal-payment-method-2017-4
             <br />
             [13]R. Sharma, &quot;Bitcoin Has a Regulation Problem,&quot;
@@ -373,8 +373,9 @@ export default function Page() {
             https://www.wsj.com/livecoverage/stock-market-today-dow-jones-11-17-2023/card/sec-delays-decisions-on-spot-bitcoin-etf-applications-ho4xwbLGARR1cmY5WhRx
             (accessed May 03, 2024).
             <br />
-            [23]&quot;Bitcoin ETF’s 60% surge in Canada signals what’s coming in
-            the U.S. – DL News,&quot; Osler, Hoskin &amp; Harcourt LLP.
+            [23]&quot;Bitcoin ETF&apos;s 60% surge in Canada signals what&apos;s
+            coming in the U.S. – DL News,&quot; Osler, Hoskin &amp; Harcourt
+            LLP.
             https://www.osler.com/en/about-us/press-room/2023/bitcoin-etf-s-60-surge-in-canada-signals-what-s-coming-in-the-u-s-dl-news
             (accessed May 03, 2024).
             <br />
@@ -383,8 +384,9 @@ export default function Page() {
             10, 2023. Accessed: May 03, 2024. [Online]. Available:
             https://www.usnews.com/news/technology/articles/2023-03-10/us-sec-rejects-vaneck-spot-bitcoin-etf-application-for-third-time
             <br />
-            [25]P. Kiernan, &quot;Grayscale’s Court Win Over SEC Lifts Hopes for
-            Bitcoin ETF Approval,&quot; Wall Street Journal, Aug. 29, 2023.
+            [25]P. Kiernan, &quot;Grayscale&apos;s Court Win Over SEC Lifts
+            Hopes for Bitcoin ETF Approval,&quot; Wall Street Journal, Aug. 29,
+            2023.
             https://www.wsj.com/finance/regulation/grayscale-wins-lawsuit-against-sec-over-bitcoin-etf-1b305cfa
             (accessed May 03, 2024).
             <br />
@@ -397,9 +399,9 @@ export default function Page() {
             https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html
             (accessed May 03, 2024).
             <br />
-            [28]B. Lindrea, &quot;BlackRock CEO ’very bullish’ on Bitcoin as its
-            ETF crosses $17B,&quot; Cointelegraph, Mar. 28, 2024. Accessed: May
-            03, 2024. [Online]. Available:
+            [28]B. Lindrea, &quot;BlackRock CEO &apos;very bullish&apos; on
+            Bitcoin as its ETF crosses $17B,&quot; Cointelegraph, Mar. 28, 2024.
+            Accessed: May 03, 2024. [Online]. Available:
             https://cointelegraph.com/news/blackrock-bitcoin-etf-fastest-growing-etf-larry-fink
           </p>
         </div>
