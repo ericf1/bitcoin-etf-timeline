@@ -682,7 +682,7 @@ const dummyContent = [
           VanEck highlights another pro of Bitcoin ETFs in its exposure to
           institutionalized investors [16]. Pro-Bitcoin people would encourage
           such activity because it would artificially drive prices up due to the
-          large sum of money that will be put into Bitcoin. VanEck's CEO
+          large sum of money that will be put into Bitcoin. VanEck&aposs CEO
           believes that bitcoin has emerged as a legitimate investment option,
           and a properly constructed physically-backed bitcoin ETF will provide
           exposure to the price of bitcoin while offering insurance to protect
@@ -721,35 +721,36 @@ const dummyContent = [
           digital currencies, either with digital currency (for example, using
           bitcoin to buy litecoin) or using fiat currency like U.S. dollars to
           buy digital currencies.&quot; [18] Using existing systems that the
-          twins already have in stock helps boost the SEC’s confidence that they
-          are the right people to start up the new Bitcoin ETF.
+          twins already have in stock helps boost the SEC&apos;s confidence that
+          they are the right people to start up the new Bitcoin ETF.
         </p>
         <br />
         <p>
           Additionally, they argued that the Bitcoin market had matured
           significantly since their first application and that the proposed ETF
-          would be in the public interest. The concern of Bitcoin’s maturity is
-          not new. Back in 2013, when the twins first introduced the ETF, many
-          publications were talking about Bitcoin’s connections to terrorism and
-          crime [19]. This concern is still very prevalent today. But in 2013,
-          the Silk Road, a website that used Bitcoin to transact illegal
-          substances and crime, was shut down. The image of Bitcoin was
-          incredibly hurt by many transactions being undocumented and the system
-          being a place where people can hide their identities to commit crime.
-          The twins argued that the new times and as many of these illegal sites
-          were being cracked down on, Bitcoin would become a more correct and
-          right system.
+          would be in the public interest. The concern of Bitcoin&apos;s
+          maturity is not new. Back in 2013, when the twins first introduced the
+          ETF, many publications were talking about Bitcoin&apos;s connections
+          to terrorism and crime [19]. This concern is still very prevalent
+          today. But in 2013, the Silk Road, a website that used Bitcoin to
+          transact illegal substances and crime, was shut down. The image of
+          Bitcoin was incredibly hurt by many transactions being undocumented
+          and the system being a place where people can hide their identities to
+          commit crime. The twins argued that the new times and as many of these
+          illegal sites were being cracked down on, Bitcoin would become a more
+          correct and right system.
         </p>
         <br />
         <p>
-          Another major point the SEC cited was that the markets were "uniquely
-          resistant to manipulation” [20]. Bitcoin was seen as an extremely
-          volatile form of asset as the price went up and down without much
-          technical fundamental understanding besides the chain itself. Unlike
-          other forms of asset, much research on technical information about
-          Bitcoin is unknown since the coin is hard to surveillance. The SEC is
-          concerned about abilities to perform attacks and hijacks which may
-          cause the coin to fail due to how new the technology still is.
+          Another major point the SEC cited was that the markets were
+          &quot;uniquely resistant to manipulation&quot; [20]. Bitcoin was seen
+          as an extremely volatile form of asset as the price went up and down
+          without much technical fundamental understanding besides the chain
+          itself. Unlike other forms of asset, much research on technical
+          information about Bitcoin is unknown since the coin is hard to
+          surveillance. The SEC is concerned about abilities to perform attacks
+          and hijacks which may cause the coin to fail due to how new the
+          technology still is.
         </p>
         <br />
         <p>
@@ -786,12 +787,12 @@ const dummyContent = [
         <p>
           The pattern of delays is also common for the SEC [22]. Delays signal a
           sign of unconfidence in the SEC’s decision as the market could still
-          be very volatile. Without much safety, the SEC feels like they can't
-          properly monitor the market and protect investors. The SEC may feel
-          that exposing the risk would not be beneficial to the market and
-          investor as the market may be able to be manipulated. Even after a few
-          years since the technology has been released, the SEC often cites the
-          same reasonings and uncertainty of the same surveillance to ensure
+          be very volatile. Without much safety, the SEC feels like they
+          can&apos;t properly monitor the market and protect investors. The SEC
+          may feel that exposing the risk would not be beneficial to the market
+          and investor as the market may be able to be manipulated. Even after a
+          few years since the technology has been released, the SEC often cites
+          the same reasonings and uncertainty of the same surveillance to ensure
           that investors are protected.
         </p>
       </>
